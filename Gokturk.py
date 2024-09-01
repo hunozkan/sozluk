@@ -4,7 +4,8 @@ meme_dict = {
             "ROFL": - "bir şakaya karşılık cevap",
             "SHEESH": - "onaylamamak"
             "CREEPY" - "korkunç"
-            }
+            "HELP" - "Sözlükteki kelimeler:CREEPY,SHEESH,ROFL,LOL,CRINGE"              
+            } 
 word = input("Anlamadığınız bir kelime yazın (hepsini büyük harflerle yazın!): ")
 
 
